@@ -19,16 +19,28 @@ $create_file = fopen($_SESSION['user'].".csv", "a");
 	<form class="addtask" action="adc_tarefa.php" method="Post">
 		<table class="tasks">
             <tr>
-                <?=var_dump($sessao);?>
                 <th>Tarefa</th>
                 <th>Ações</th>
-             <?php $file= file($sessao.".txt");?>
+             <?php $file= file($sessao.".csv");?>
 			 <?php foreach ($file as $linha => $coluna): ?>
-            <tr>
-                <td class="todo"><?= $file[$linha];?></td><br>
+             <?php $explode = explode(';;;', $coluna);?>
+             <?php
+                if($explode[1] == "done"){
+                    $class =  "done";
+                 }else{
+                    $class = "todo";
+                }
+                ?>
+                <tr>
+                <td class= 
+                <?= $class;
+                    ?>
+                    >
+                <?=$explode[0];?>
+                </td><br>
                 <td class="action">
                     <a class="taskdone" href="taskDone.php?id=<?=$linha?>">C </a>
-                    <a class="rmtask" href="rmTask.php?id=<?=$linha?>?name=<?=$sessao?>">x</a>
+                    <a class="rmtask" href="rmTask.php?id=<?=$linha?>">x</a>
              <?php endforeach ?>
                 </td>
             </tr>

@@ -1,6 +1,7 @@
 <?php 
+session_start();
 $line = $_GET['id'];
-$fillename = $_GET['name'];
+$fillename = $_SESSION['user'];
 $name = $fillename.'.csv';
 $file = file($name);
 unset($file[$line]);
