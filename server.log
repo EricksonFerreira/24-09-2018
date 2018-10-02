@@ -1,687 +1,782 @@
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57130 [302]: /index.php
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57132 [200]: /login.php
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57134 [200]: /_base/style.css
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57136 [404]: /favicon.ico - No such file or directory
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57138 [404]: /favicon.ico - No such file or directory
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48662 [302]: /index.php
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48664 [200]: /login.php
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48666 [200]: /_base/style.css
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48668 [404]: /favicon.ico - No such file or directory
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57140 [302]: /_base/clear.php
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57142 [302]: /index.php
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57144 [200]: /login.php
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57146 [200]: /_base/style.css
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57148 [200]: /register.php
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57150 [200]: /_base/style.css
-[Mon Sep 24 15:11:11 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:11 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57152 [302]: /recording.php
-[Mon Sep 24 15:11:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57154 [200]: /login.php
-[Mon Sep 24 15:11:11 2018] 127.0.0.1:57156 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57158 [200]: /login.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57160 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57162 [302]: /Auth.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57164 [200]: /index.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57166 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57168 [200]: /index.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57170 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57172 [200]: /index.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57174 [200]: /_base/style.css
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48670 [302]: /_base/clear.php
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48672 [302]: /index.php
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48674 [200]: /login.php
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48676 [200]: /_base/style.css
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48680 [200]: /register.php
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48682 [200]: /_base/style.css
+[Tue Oct  2 15:36:58 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:36:58 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48684 [302]: /recording.php
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48686 [200]: /login.php
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48688 [200]: /_base/style.css
+[Tue Oct  2 15:36:58 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48690 [200]: /login.php
+[Tue Oct  2 15:36:58 2018] 127.0.0.1:48692 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48696 [302]: /Auth.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48698 [200]: /index.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48700 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48702 [200]: /index.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48704 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48706 [302]: /adc_tarefa.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48708 [200]: /index.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48712 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48714 [200]: /index.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48716 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48718 [302]: /adc_tarefa.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48720 [200]: /index.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48722 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48724 [302]: /logout.php
+[Tue Oct  2 15:36:59 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48726 [200]: /login.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48728 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48730 [200]: /register.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48732 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48736 [302]: /recording.php
+[Tue Oct  2 15:36:59 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48738 [200]: /login.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48740 [200]: /_base/style.css
+[Tue Oct  2 15:36:59 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48742 [200]: /login.php
+[Tue Oct  2 15:36:59 2018] 127.0.0.1:48744 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48746 [302]: /Auth.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48748 [200]: /index.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48750 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48752 [200]: /index.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48754 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48756 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48758 [200]: /index.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48760 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48764 [200]: /index.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48766 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48768 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48770 [200]: /index.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48772 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48774 [302]: /rmTask.php?id=0
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48776 [200]: /index.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48778 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48780 [200]: /index.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48782 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57176 [302]: /_base/clear.php
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57178 [302]: /index.php
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57180 [200]: /login.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57182 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57184 [200]: /register.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57186 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:12 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57188 [302]: /recording.php
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57190 [200]: /login.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57192 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57194 [200]: /login.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57196 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57198 [302]: /Auth.php
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57200 [200]: /login.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57202 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57204 [302]: /index.php
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57206 [200]: /login.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57208 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48784 [302]: /_base/clear.php
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48786 [302]: /index.php
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48788 [200]: /login.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48790 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48792 [200]: /register.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48794 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:00 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48796 [302]: /recording.php
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48798 [200]: /login.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48800 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48802 [200]: /login.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48804 [200]: /_base/style.css
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48806 [302]: /Auth.php
+[Tue Oct  2 15:37:00 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48808 [200]: /login.php
+[Tue Oct  2 15:37:00 2018] 127.0.0.1:48810 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48812 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48814 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48816 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57210 [302]: /_base/clear.php
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57212 [302]: /index.php
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57214 [200]: /login.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57216 [200]: /_base/style.css
-[Mon Sep 24 15:11:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57218 [200]: /register.php
-[Mon Sep 24 15:11:12 2018] 127.0.0.1:57220 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57224 [302]: /index.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57226 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57228 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48818 [302]: /_base/clear.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48820 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48822 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48824 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48826 [200]: /register.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48828 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48830 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48832 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48834 [200]: /_base/style.css
 rm: não foi possível remover '../*.csv': Arquivo ou diretório não encontrado
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57230 [302]: /_base/clear.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57232 [302]: /index.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57234 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57236 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57238 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57240 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57242 [302]: /index.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57244 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57246 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48836 [302]: /_base/clear.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48838 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48840 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48842 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48844 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48846 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48848 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48850 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48852 [200]: /_base/style.css
 rm: não foi possível remover '../*.csv': Arquivo ou diretório não encontrado
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57248 [302]: /_base/clear.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57250 [302]: /index.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57252 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57254 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57256 [200]: /register.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57258 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:13 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57260 [302]: /recording.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57262 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57264 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57266 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57268 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57270 [302]: /Auth.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57272 [200]: /index.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57274 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57278 [302]: /logout.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57280 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57282 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57284 [302]: /index.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57286 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57288 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57290 [302]: /index.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57292 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57294 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48854 [302]: /_base/clear.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48856 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48858 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48860 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48862 [200]: /register.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48864 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:01 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48866 [302]: /recording.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48868 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48870 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48872 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48874 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48876 [302]: /Auth.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48878 [200]: /index.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48880 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48882 [302]: /logout.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48884 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48886 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48888 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48890 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48892 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48894 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48896 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48898 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57296 [302]: /_base/clear.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57298 [302]: /index.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57300 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57302 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57304 [200]: /register.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57306 [200]: /_base/style.css
-[Mon Sep 24 15:11:13 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:13 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57308 [302]: /recording.php
-[Mon Sep 24 15:11:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57310 [200]: /login.php
-[Mon Sep 24 15:11:13 2018] 127.0.0.1:57312 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57314 [200]: /login.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57316 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57318 [302]: /Auth.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57320 [200]: /index.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57322 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57324 [200]: /_base/checkSession.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57326 [404]: /http://localhost:9990/index.php - No such file or directory
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57328 [200]: /index.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57330 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48900 [302]: /_base/clear.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48902 [302]: /index.php
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48904 [200]: /login.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48906 [200]: /_base/style.css
+[Tue Oct  2 15:37:01 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48908 [200]: /register.php
+[Tue Oct  2 15:37:01 2018] 127.0.0.1:48910 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:02 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48912 [302]: /recording.php
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48914 [200]: /login.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48916 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48918 [200]: /login.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48920 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48922 [302]: /Auth.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48924 [200]: /index.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48926 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48928 [200]: /_base/checkSession.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48930 [404]: /http://localhost:9990/index.php - No such file or directory
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48932 [200]: /index.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48934 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57332 [302]: /_base/clear.php
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57336 [302]: /index.php
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57338 [200]: /login.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57340 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57342 [200]: /register.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57344 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:14 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57346 [302]: /recording.php
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57348 [200]: /login.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57350 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57352 [200]: /login.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57356 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57360 [302]: /Auth.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57362 [200]: /index.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57364 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57366 [200]: /index.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57368 [200]: /_base/style.css
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57372 [200]: /index.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57374 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48936 [302]: /_base/clear.php
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48938 [302]: /index.php
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48940 [200]: /login.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48942 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48944 [200]: /register.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48946 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:02 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48948 [302]: /recording.php
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48950 [200]: /login.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48952 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48954 [200]: /login.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48956 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48958 [302]: /Auth.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48960 [200]: /index.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48962 [200]: /_base/style.css
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48964 [200]: /index.php
+[Tue Oct  2 15:37:02 2018] 127.0.0.1:48966 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48968 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48970 [200]: /index.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48972 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48974 [200]: /index.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48976 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57376 [302]: /_base/clear.php
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57378 [302]: /index.php
-[Mon Sep 24 15:11:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57380 [200]: /login.php
-[Mon Sep 24 15:11:14 2018] 127.0.0.1:57382 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57384 [200]: /register.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57386 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:15 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57388 [302]: /recording.php
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57390 [200]: /login.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57392 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57394 [200]: /login.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57396 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57398 [302]: /Auth.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57400 [200]: /index.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57402 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57404 [200]: /index.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57406 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57408 [200]: /index.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57410 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48978 [302]: /_base/clear.php
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48980 [302]: /index.php
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48982 [200]: /login.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48984 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48986 [200]: /register.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48988 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:03 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48990 [302]: /recording.php
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48992 [200]: /login.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48994 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48996 [200]: /login.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:48998 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49000 [302]: /Auth.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49002 [200]: /index.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49004 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49006 [200]: /index.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49008 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49010 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49012 [200]: /index.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49014 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49016 [200]: /index.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49018 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57412 [302]: /_base/clear.php
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57414 [302]: /index.php
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57416 [200]: /login.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57418 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57420 [200]: /register.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57422 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:15 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57424 [302]: /recording.php
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57426 [200]: /login.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57428 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57430 [200]: /login.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57432 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57434 [302]: /Auth.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57436 [200]: /index.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57438 [200]: /_base/style.css
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57440 [200]: /index.php
-[Mon Sep 24 15:11:15 2018] 127.0.0.1:57442 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57444 [200]: /index.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57446 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49020 [302]: /_base/clear.php
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49022 [302]: /index.php
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49024 [200]: /login.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49026 [200]: /_base/style.css
+[Tue Oct  2 15:37:03 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49028 [200]: /register.php
+[Tue Oct  2 15:37:03 2018] 127.0.0.1:49030 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:04 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49032 [302]: /recording.php
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49034 [200]: /login.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49036 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49038 [200]: /login.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49040 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49042 [302]: /Auth.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49044 [200]: /index.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49046 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49048 [200]: /index.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49050 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49052 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49054 [200]: /index.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49056 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49058 [200]: /index.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49060 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49062 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49064 [200]: /index.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49066 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49068 [200]: /index.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49070 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57448 [302]: /_base/clear.php
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57450 [302]: /index.php
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57452 [200]: /login.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57454 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57456 [200]: /register.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57458 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:16 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57460 [302]: /recording.php
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57462 [200]: /login.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57464 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57468 [200]: /login.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57470 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57472 [302]: /Auth.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57474 [200]: /index.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57476 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57480 [200]: /index.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57482 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57484 [200]: /index.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57486 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49072 [302]: /_base/clear.php
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49074 [302]: /index.php
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49076 [200]: /login.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49078 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49080 [200]: /register.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49082 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:04 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49084 [302]: /recording.php
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49086 [200]: /login.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49088 [200]: /_base/style.css
+[Tue Oct  2 15:37:04 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49090 [200]: /login.php
+[Tue Oct  2 15:37:04 2018] 127.0.0.1:49092 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49094 [302]: /Auth.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49096 [200]: /index.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49098 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49100 [200]: /index.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49102 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49104 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49106 [200]: /index.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49108 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49110 [200]: /index.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49112 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49114 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49116 [200]: /index.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49118 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49120 [302]: /taskDone.php?id=0
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49122 [200]: /index.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49124 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49126 [200]: /index.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49128 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57488 [302]: /_base/clear.php
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57490 [302]: /index.php
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57492 [200]: /login.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57494 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57496 [200]: /register.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57498 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:16 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57502 [302]: /recording.php
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57504 [200]: /login.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57506 [200]: /_base/style.css
-[Mon Sep 24 15:11:16 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57508 [200]: /register.php
-[Mon Sep 24 15:11:16 2018] 127.0.0.1:57510 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57512 [302]: /recording.php
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57514 [200]: /login.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57516 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57518 [200]: /login.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57520 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57522 [302]: /Auth.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57524 [200]: /index.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57526 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57528 [200]: /index.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57530 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57532 [200]: /index.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57534 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49130 [302]: /_base/clear.php
+[Tue Oct  2 15:37:05 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:05 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:05 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49132 [302]: /index.php
+[Tue Oct  2 15:37:05 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49134 [200]: /login.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49136 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49138 [200]: /register.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49140 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:05 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49142 [302]: /recording.php
+[Tue Oct  2 15:37:05 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49144 [200]: /login.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49146 [200]: /_base/style.css
+[Tue Oct  2 15:37:05 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49148 [200]: /register.php
+[Tue Oct  2 15:37:05 2018] 127.0.0.1:49150 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49152 [302]: /recording.php
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49154 [200]: /login.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49156 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49158 [200]: /login.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49160 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49162 [302]: /Auth.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49164 [200]: /index.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49166 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49168 [200]: /index.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49170 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49172 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49174 [200]: /index.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49176 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49178 [200]: /index.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49180 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57536 [302]: /_base/clear.php
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57538 [302]: /index.php
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57540 [200]: /login.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57542 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57544 [200]: /register.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57546 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:17 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57548 [302]: /recording.php
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57550 [200]: /login.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57552 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57554 [200]: /login.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57556 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57558 [302]: /Auth.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57560 [200]: /index.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57562 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57564 [200]: /index.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57566 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57568 [200]: /index.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57570 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49182 [302]: /_base/clear.php
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49184 [302]: /index.php
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49186 [200]: /login.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49188 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49190 [200]: /register.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49192 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:06 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49194 [302]: /recording.php
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49196 [200]: /login.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49198 [200]: /_base/style.css
+[Tue Oct  2 15:37:06 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49200 [200]: /login.php
+[Tue Oct  2 15:37:06 2018] 127.0.0.1:49202 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49204 [302]: /Auth.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49206 [200]: /index.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49208 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49210 [200]: /index.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49212 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49214 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49216 [200]: /index.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49218 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49220 [200]: /index.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49222 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49224 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49226 [200]: /index.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49228 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49230 [302]: /rmTask.php?id=0
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49232 [200]: /index.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49234 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49236 [200]: /index.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49238 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57572 [302]: /_base/clear.php
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57574 [302]: /index.php
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57576 [200]: /login.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57578 [200]: /_base/style.css
-[Mon Sep 24 15:11:17 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57580 [200]: /register.php
-[Mon Sep 24 15:11:17 2018] 127.0.0.1:57582 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:18 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57584 [302]: /recording.php
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57586 [200]: /login.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57588 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57590 [200]: /login.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57592 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57594 [302]: /Auth.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57596 [200]: /index.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57598 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57600 [200]: /index.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57602 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57604 [200]: /index.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57606 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49240 [302]: /_base/clear.php
+[Tue Oct  2 15:37:07 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:07 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:07 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49242 [302]: /index.php
+[Tue Oct  2 15:37:07 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49244 [200]: /login.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49246 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49248 [200]: /register.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49250 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:07 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49252 [302]: /recording.php
+[Tue Oct  2 15:37:07 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49254 [200]: /login.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49256 [200]: /_base/style.css
+[Tue Oct  2 15:37:07 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49258 [200]: /login.php
+[Tue Oct  2 15:37:07 2018] 127.0.0.1:49260 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49262 [302]: /Auth.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49264 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49266 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49268 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49270 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49272 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49274 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49276 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49278 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49280 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49282 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49284 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49286 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49288 [302]: /taskDone.php?id=0
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49290 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49292 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49294 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49296 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57608 [302]: /_base/clear.php
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57610 [302]: /index.php
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57612 [200]: /login.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57614 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57616 [200]: /register.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57618 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:18 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57620 [302]: /recording.php
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57622 [200]: /login.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57624 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57626 [200]: /login.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57628 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57630 [302]: /Auth.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57632 [200]: /index.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57634 [200]: /_base/style.css
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57636 [200]: /index.php
-[Mon Sep 24 15:11:18 2018] 127.0.0.1:57638 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57640 [200]: /index.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57642 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49298 [302]: /_base/clear.php
+[Tue Oct  2 15:37:08 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:08 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:08 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49300 [302]: /index.php
+[Tue Oct  2 15:37:08 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49302 [200]: /login.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49304 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49306 [200]: /register.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49308 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:08 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49310 [302]: /recording.php
+[Tue Oct  2 15:37:08 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49312 [200]: /login.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49314 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49316 [200]: /login.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49318 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49320 [302]: /Auth.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49322 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49324 [200]: /_base/style.css
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49326 [200]: /index.php
+[Tue Oct  2 15:37:08 2018] 127.0.0.1:49328 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49330 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49332 [200]: /index.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49334 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49336 [200]: /index.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49338 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49340 [302]: /adc_tarefa.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49342 [200]: /index.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49344 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49346 [200]: /index.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49348 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57644 [302]: /_base/clear.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57646 [302]: /index.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57648 [200]: /login.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57650 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57652 [200]: /register.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57654 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57656 [302]: /recording.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57658 [200]: /register.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57660 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57662 [200]: /login.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57664 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/Auth.php on line 6
-[Mon Sep 24 15:11:19 2018] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/alunoifpe/Documentos/24-09-2018/app/Auth.php on line 7
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57666 [302]: /Auth.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57668 [200]: /login.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57670 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57672 [200]: /login.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57674 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/Auth.php on line 6
-[Mon Sep 24 15:11:19 2018] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/alunoifpe/Documentos/24-09-2018/app/Auth.php on line 7
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57676 [302]: /Auth.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57678 [200]: /login.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57680 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57682 [302]: /index.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57684 [200]: /login.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57686 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49350 [302]: /_base/clear.php
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49352 [302]: /index.php
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49354 [200]: /login.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49356 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49358 [200]: /register.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49360 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49362 [302]: /recording.php
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49364 [200]: /register.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49366 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49368 [200]: /login.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49370 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/Auth.php on line 6
+[Tue Oct  2 15:37:09 2018] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/Auth.php on line 7
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49372 [302]: /Auth.php
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49374 [200]: /login.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49376 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49378 [200]: /login.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49380 [200]: /_base/style.css
+[Tue Oct  2 15:37:09 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/Auth.php on line 6
+[Tue Oct  2 15:37:09 2018] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/Auth.php on line 7
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49382 [302]: /Auth.php
+[Tue Oct  2 15:37:09 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49384 [200]: /login.php
+[Tue Oct  2 15:37:09 2018] 127.0.0.1:49386 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49388 [302]: /index.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49390 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49392 [200]: /_base/style.css
 rm: não foi possível remover '../*.csv': Arquivo ou diretório não encontrado
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57688 [302]: /_base/clear.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57690 [302]: /index.php
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57692 [200]: /login.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57694 [200]: /_base/style.css
-[Mon Sep 24 15:11:19 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57696 [200]: /register.php
-[Mon Sep 24 15:11:19 2018] 127.0.0.1:57698 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:20 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57700 [302]: /recording.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57702 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57704 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57706 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57708 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57710 [302]: /Auth.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57712 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57714 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57716 [302]: /index.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57718 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57720 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49394 [302]: /_base/clear.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49396 [302]: /index.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49398 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49400 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49402 [200]: /register.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49404 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:10 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49406 [302]: /recording.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49408 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49410 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49412 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49414 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49416 [302]: /Auth.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49418 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49420 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49422 [302]: /index.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49424 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49426 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57722 [302]: /_base/clear.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57724 [302]: /index.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57726 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57728 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57730 [200]: /register.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57732 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:20 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57734 [302]: /recording.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57736 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57738 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57740 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57742 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57744 [302]: /Auth.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57746 [200]: /index.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57748 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57752 [200]: /index.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57754 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49428 [302]: /_base/clear.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49430 [302]: /index.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49432 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49434 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49436 [200]: /register.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49438 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:10 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49440 [302]: /recording.php
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49442 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49444 [200]: /_base/style.css
+[Tue Oct  2 15:37:10 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49446 [200]: /login.php
+[Tue Oct  2 15:37:10 2018] 127.0.0.1:49448 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49450 [302]: /Auth.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49452 [200]: /index.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49454 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49456 [200]: /index.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49458 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57756 [302]: /_base/clear.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57758 [302]: /index.php
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57760 [200]: /login.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57762 [200]: /_base/style.css
-[Mon Sep 24 15:11:20 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57764 [200]: /register.php
-[Mon Sep 24 15:11:20 2018] 127.0.0.1:57766 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:21 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57768 [302]: /recording.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57770 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57772 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57774 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57776 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57778 [302]: /Auth.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57780 [200]: /index.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57782 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57784 [200]: /_base/checkSession.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57786 [404]: /http://localhost:9990/index.php - No such file or directory
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57788 [200]: /index.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57790 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49460 [302]: /_base/clear.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49462 [302]: /index.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49464 [200]: /login.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49466 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49468 [200]: /register.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49470 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:11 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49472 [302]: /recording.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49474 [200]: /login.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49476 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49478 [200]: /login.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49480 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49482 [302]: /Auth.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49484 [200]: /index.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49486 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49488 [200]: /_base/checkSession.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49490 [404]: /http://localhost:9990/index.php - No such file or directory
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49492 [200]: /index.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49494 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57792 [302]: /_base/clear.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57794 [302]: /index.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57796 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57798 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57800 [302]: /index.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57802 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57804 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57806 [302]: /index.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57808 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57810 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49496 [302]: /_base/clear.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49498 [302]: /index.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49500 [200]: /login.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49502 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49504 [302]: /index.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49506 [200]: /login.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49508 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49510 [302]: /index.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49512 [200]: /login.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49514 [200]: /_base/style.css
 rm: não foi possível remover '../*.csv': Arquivo ou diretório não encontrado
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57812 [302]: /_base/clear.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57814 [302]: /index.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57816 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57818 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57820 [200]: /register.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57822 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:21 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57824 [302]: /recording.php
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57826 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57828 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57830 [200]: /login.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57832 [200]: /_base/style.css
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57834 [302]: /Auth.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57836 [200]: /index.php
-[Mon Sep 24 15:11:21 2018] 127.0.0.1:57838 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57840 [200]: /index.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57842 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49516 [302]: /_base/clear.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49518 [302]: /index.php
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49520 [200]: /login.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49522 [200]: /_base/style.css
+[Tue Oct  2 15:37:11 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49524 [200]: /register.php
+[Tue Oct  2 15:37:11 2018] 127.0.0.1:49526 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:12 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49528 [302]: /recording.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49530 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49532 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49534 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49536 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49538 [302]: /Auth.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49540 [200]: /index.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49542 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49544 [200]: /index.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49546 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57844 [302]: /_base/clear.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57846 [302]: /index.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57848 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57850 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57852 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57854 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/Auth.php on line 6
-[Mon Sep 24 15:11:22 2018] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/alunoifpe/Documentos/24-09-2018/app/Auth.php on line 7
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57856 [302]: /Auth.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57858 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57860 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57862 [302]: /index.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57864 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57866 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57868 [200]: /_base/checkSession.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57870 [404]: /http://localhost:9990/login.php - No such file or directory
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57872 [302]: /index.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57874 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57876 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49548 [302]: /_base/clear.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49550 [302]: /index.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49552 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49554 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49556 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49558 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/Auth.php on line 6
+[Tue Oct  2 15:37:12 2018] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/Auth.php on line 7
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49560 [302]: /Auth.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49562 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49564 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49566 [302]: /index.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49568 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49570 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49572 [200]: /_base/checkSession.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49574 [404]: /http://localhost:9990/login.php - No such file or directory
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49576 [302]: /index.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49578 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49580 [200]: /_base/style.css
 rm: não foi possível remover '../*.csv': Arquivo ou diretório não encontrado
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57878 [302]: /_base/clear.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57880 [302]: /index.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57882 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57884 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57886 [200]: /register.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57888 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:22 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57890 [302]: /recording.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57892 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57894 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57896 [200]: /register.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57898 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57900 [302]: /recording.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57902 [200]: /erro.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57904 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57906 [200]: /_base/style.css
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57908 [302]: /Auth.php
-[Mon Sep 24 15:11:22 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57910 [200]: /login.php
-[Mon Sep 24 15:11:22 2018] 127.0.0.1:57912 [200]: /_base/style.css
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57914 [200]: /_base/checkSession.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57916 [404]: /http://localhost:9990/login.php - No such file or directory
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57918 [200]: /login.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57920 [200]: /_base/style.css
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57922 [302]: /Auth.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57924 [200]: /index.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57926 [200]: /_base/style.css
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57928 [200]: /index.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57930 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49582 [302]: /_base/clear.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49584 [302]: /index.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49586 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49588 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49590 [200]: /register.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49592 [200]: /_base/style.css
+[Tue Oct  2 15:37:12 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:12 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49594 [302]: /recording.php
+[Tue Oct  2 15:37:12 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49596 [200]: /login.php
+[Tue Oct  2 15:37:12 2018] 127.0.0.1:49598 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49600 [200]: /register.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49602 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49604 [302]: /recording.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49606 [200]: /erro.php
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49608 [200]: /login.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49610 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49612 [302]: /Auth.php
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49614 [200]: /login.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49616 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49618 [200]: /_base/checkSession.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49620 [404]: /http://localhost:9990/login.php - No such file or directory
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49622 [200]: /login.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49624 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49626 [302]: /Auth.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49628 [200]: /index.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49630 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49632 [200]: /index.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49634 [200]: /_base/style.css
 rm: não foi possível remover '../*/*.csv': Arquivo ou diretório não encontrado
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57932 [302]: /_base/clear.php
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 2
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 6
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/index.php on line 18
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57934 [302]: /index.php
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57936 [200]: /login.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57938 [200]: /_base/style.css
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/register.php on line 2
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57940 [200]: /register.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57942 [200]: /_base/style.css
-[Mon Sep 24 15:11:23 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 7
-[Mon Sep 24 15:11:23 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/24-09-2018/app/recording.php on line 10
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57944 [302]: /recording.php
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57946 [200]: /login.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57948 [200]: /_base/style.css
-[Mon Sep 24 15:11:23 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/24-09-2018/app/login.php on line 2
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57950 [200]: /login.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57952 [200]: /_base/style.css
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57954 [302]: /Auth.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57956 [200]: /index.php
-[Mon Sep 24 15:11:23 2018] 127.0.0.1:57958 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49636 [302]: /_base/clear.php
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 2
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 6
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/index.php on line 18
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49638 [302]: /index.php
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49640 [200]: /login.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49642 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/register.php on line 2
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49644 [200]: /register.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49646 [200]: /_base/style.css
+[Tue Oct  2 15:37:13 2018] PHP Warning:  file(usuarios.csv): failed to open stream: No such file or directory in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 7
+[Tue Oct  2 15:37:13 2018] PHP Warning:  Invalid argument supplied for foreach() in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/recording.php on line 10
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49648 [302]: /recording.php
+[Tue Oct  2 15:37:13 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49650 [200]: /login.php
+[Tue Oct  2 15:37:13 2018] 127.0.0.1:49652 [200]: /_base/style.css
+[Tue Oct  2 15:37:14 2018] PHP Notice:  Undefined index: user in /home/alunoifpe/Documentos/Atv-de-Web-24-09-2018/app/login.php on line 2
+[Tue Oct  2 15:37:14 2018] 127.0.0.1:49654 [200]: /login.php
+[Tue Oct  2 15:37:14 2018] 127.0.0.1:49656 [200]: /_base/style.css
+[Tue Oct  2 15:37:14 2018] 127.0.0.1:49658 [302]: /Auth.php
+[Tue Oct  2 15:37:14 2018] 127.0.0.1:49660 [200]: /index.php
+[Tue Oct  2 15:37:14 2018] 127.0.0.1:49662 [200]: /_base/style.css

@@ -40,12 +40,12 @@ $create_file = fopen($_SESSION['user'].".csv", "a");
                 </td><br>
                 <td class="action">
                     <a class="taskdone" href="taskDone.php?id=<?=$linha?>">C </a>
-                    <a class="rmtask" href="rmTask.php?id=<?=$linha?>">x</a>
+                    <a class="rmtask"  href="rmTask.php?id=<?=$linha?>">x</a>
              <?php endforeach ?>
                 </td>
             </tr>
             <tr>        
-                <td><input type="text" name="tarefa" placeholder="Tarefa" required></td>
+                <td><input type="text" name="title" placeholder="Tarefa" required></td>
                 <td class="action"><input type="submit" value="ok"></td>
             </tr>
 		</table>	
